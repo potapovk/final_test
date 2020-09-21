@@ -1,1 +1,7 @@
 initial commit to master
+
+first commit to branch
+
+second commit to branch
+
+third commit to branch
